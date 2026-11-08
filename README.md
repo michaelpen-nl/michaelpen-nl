@@ -8,8 +8,11 @@ or external dependencies.
 
 Open `index.html` in a browser.
 
-## Personalize
+## Pages
 
-Update the about, research, publications, and contact sections in `index.html`
-with your details. Add direct links to your email address, CV, or academic
-profiles when you are ready to share them.
+- `index.html` contains the home page, including About, Expertise, and Contact.
+- `research.html` contains research and publication information.
+- `teaching.html` contains teaching information.
+
+Update the page content with your details. Add direct links to your email
+address, CV, or academic profiles when you are ready to share them.
