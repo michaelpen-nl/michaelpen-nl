@@ -345,6 +345,10 @@ h2 {
   font-weight: 400;
 }
 
+.publication-card h3 + h3 {
+  margin-top: 24px;
+}
+
 .research-card p,
 .publication-card p {
   margin: 0;
