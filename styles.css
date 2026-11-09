@@ -229,9 +229,16 @@ h2 {
   color: var(--muted);
 }
 
+.about-card,
+.research-card p {
+  color: var(--card-ink);
+  font-family: var(--sans);
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
 .about-card {
   padding: 26px 28px;
-  color: var(--card-ink);
   background: var(--card);
   border: 1px solid #e4d4bd;
   border-radius: 4px;
@@ -257,6 +264,9 @@ h2 {
 .research-card p,
 .publication-card p {
   margin: 0;
+}
+
+.publication-card p {
   color: var(--card-muted);
   font-size: 0.94rem;
 }
